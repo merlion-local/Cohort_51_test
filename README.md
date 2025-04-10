@@ -1,1 +1,1 @@
-+ Работа с Git - это очень полезно в проектах!
+Rebase is a powerful Git feature!
