@@ -1,1 +1,1 @@
-Rebase is a powerful Git feature!
+Adding a new feature for the pull request!
